@@ -9,7 +9,7 @@ We can now graph the positions of joints in respect to time:
 
 ![Joint Positions](positions.png)
 
-Using the law of cosines, we can then extract the angles between certain joints"
+Using the law of cosines, we can then extract the angles between certain joints:
 
 ![Joint Angles](angles.png)
 
