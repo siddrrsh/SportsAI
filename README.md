@@ -23,3 +23,5 @@ To deduce injury risk (jerk, also known as the third derivative of position), we
 ![Joint Stress](jointstress.png)
 
 The above graph quanitifes the jerk or joint stress over time. If pitches have high jerk (especially on multiple occasions), it can become a direct cause of injury! As you can see, at roughly 3 seconds, the shoulder had the highest jerk. If an injury or "tweak" occurs, it would most likely be at this time. To reduce injury risk during pitching, it is more important to smooth out this motion. In other words, prevent drastic minimas or maximas on this graph.
+
+Credit for the GCP imports and initial code goes to Dale Markowitz - https://towardsdatascience.com/can-ai-make-you-a-better-athlete-using-machine-learning-to-analyze-tennis-serves-and-penalty-kicks-f9dd225cea49
