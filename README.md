@@ -1,5 +1,7 @@
 # SportsAI
 
+Credit for the GCP imports and joint annotation extraction code goes to Dale Markowitz - https://towardsdatascience.com/can-ai-make-you-a-better-athlete-using-machine-learning-to-analyze-tennis-serves-and-penalty-kicks-f9dd225cea49
+
 Given an input video of any sports motion (pitch, tennis serve, etc.), this program can analyze mutliple joints and find points of stress/jerk. In other words, we can deduce injury risk. A sample video is provided for analysis. This video is a ~6 second .mp4 file of a baseball pitch. All videos must only contain one person for the program to work. You can start with a baseball pitch like the following:
 
 ![Pitch](pitch.jpg)
